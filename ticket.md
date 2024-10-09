@@ -2,9 +2,9 @@
 
 ## Job To Be Done (Problem Statement)
 
-As a customer engagement specialist  
-I want to be able to shorten long URLs  
-So that I can easily share links with customers in a user-friendly way
+**As a** customer engagement specialist  
+**I want** to be able to shorten long URLs  
+**So that** I can easily share links with customers in a user-friendly way
 
 ## Acceptance Criteria
 
