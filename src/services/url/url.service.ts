@@ -32,6 +32,7 @@ export class UrlService {
   }
 
   private getHostNameAndPort(): string {
+    return 'https://80ea-86-177-128-90.ngrok-free.app';
     const httpAdapter = this.httpAdapterHost.httpAdapter;
     const server = httpAdapter.getHttpServer();
     const addressInfo = server.address();

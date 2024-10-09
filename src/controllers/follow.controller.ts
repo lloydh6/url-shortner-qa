@@ -7,7 +7,9 @@ import {
   Redirect,
 } from '@nestjs/common';
 import { UrlService } from '../services/url/url.service';
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('Follow')
 @Controller('')
 export class FollowController {
   constructor(private urlService: UrlService) {}
